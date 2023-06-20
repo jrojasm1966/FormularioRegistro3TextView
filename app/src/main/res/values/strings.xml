@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FormularioRegistro3TextView</string>
+    <string name="formulario_de_registro">Formulario de Registro</string>
+    <string name="nombre_requerido">Nombre (requerido)</string>
+    <string name="introduce_tu_nombre">Introduce tu Nombre</string>
+    <string name="introduce_tu_email">Introduce tu Email</string>
+    <string name="email_requerido">Email (requerido)</string>
+    <string name="apellido_requerido">Apellido (requerido)</string>
+    <string name="introduce_tu_apellido">Introduce tu Apellido</string>
+    <string name="suscribirse">Suscribirse</string>
+</resources>
